@@ -11,7 +11,7 @@ This repo holds all of CWRU Quants' previous General Board meeting slides.
 | 09-27-24  | Stem Introduction   |
 | 10-04-24  | Election Arbitrage  |
 | 10-11-24 | Financial Signals [NO SLIDES] |
-| 10-18-24 | Fall Break [No SLIDES] |
+| 10-18-24 | Fall Break [NO SLIDES] |
 | 10-25-24  | Volatility          |
 | 11-01-24 | Social Event [NO SLIDES] |
 | 11-08-24  | Financial Computing and Project Groups  |
