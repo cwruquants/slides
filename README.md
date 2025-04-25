@@ -30,12 +30,12 @@ This repo holds all of CWRU Quants' previous General Board meeting slides.
 | 2-7-25 | Guest Speaker [Ritesh Shah, Jump Trading] |
 | 2-14-25 | Project Work |
 | 2-21-25 | Industry Recruiting |
-| 2-28-25 | Social Event [No Slides] |
-| 3-7-25 | Asynchronous Work [No Slides] |
-| 3-14-25 | Spring Break [No Slides] |
+| 2-28-25 | Social Event [NO SLIDES] |
+| 3-7-25 | Asynchronous Work [NO SLIDES] |
+| 3-14-25 | Spring Break [NO SLIDES] |
 | 3-21-25 | High Frequency Trading |
 | 3-28-25 | Club Struture and Project Work |
 | 4-04-25 | FPGAs & ASICs |
-| 4-11-25 | Asynchronous Work [No Slides] |
-| 4-18-25 | Final Report Preparation [No Slides] |
+| 4-11-25 | Asynchronous Work [NO SLIDES] |
+| 4-18-25 | Final Report Preparation [NO SLIDES] |
 | 4-25-25 | Final Report Out |
