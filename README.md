@@ -7,7 +7,7 @@ This repo holds all of CWRU Quants' previous General Board meeting slides.
 | Date      | Topic               |
 | --------- | -----------------   |
 | 09-13-24  | Welcome to CWRU Quants!    |
-| 9-20-24 | Poker Night [NO SLIDES] | 
+| 09-20-24 | Poker Night [NO SLIDES] | 
 | 09-27-24  | Stem Introduction   |
 | 10-04-24  | Election Arbitrage  |
 | 10-11-24 | Financial Signals [NO SLIDES] |
@@ -24,18 +24,18 @@ This repo holds all of CWRU Quants' previous General Board meeting slides.
 
 | Date      | Topic               |
 | --------- | -----------------   |
-| 1-17-25 | Project Introductions |
-| 1-24-25 | Market Microstructure |
-| 1-31-25 | Project Work [NO SLIDES] |
-| 2-7-25 | Guest Speaker [Ritesh Shah, Jump Trading] |
-| 2-14-25 | Project Work |
-| 2-21-25 | Industry Recruiting |
-| 2-28-25 | Social Event [NO SLIDES] |
-| 3-7-25 | Asynchronous Work [NO SLIDES] |
-| 3-14-25 | Spring Break [NO SLIDES] |
-| 3-21-25 | High Frequency Trading |
-| 3-28-25 | Club Struture and Project Work |
-| 4-04-25 | FPGAs & ASICs |
-| 4-11-25 | Asynchronous Work [NO SLIDES] |
-| 4-18-25 | Final Report Preparation [NO SLIDES] |
-| 4-25-25 | Final Report Out |
+| 01-17-25 | Project Introductions |
+| 01-24-25 | Market Microstructure |
+| 01-31-25 | Project Work [NO SLIDES] |
+| 02-7-25 | Guest Speaker [Ritesh Shah, Jump Trading] |
+| 02-14-25 | Project Work |
+| 02-21-25 | Industry Recruiting |
+| 02-28-25 | Social Event [NO SLIDES] |
+| 03-7-25 | Asynchronous Work [NO SLIDES] |
+| 03-14-25 | Spring Break [NO SLIDES] |
+| 03-21-25 | High Frequency Trading |
+| 03-28-25 | Club Structure and Project Work |
+| 04-04-25 | FPGAs & ASICs |
+| 04-11-25 | Asynchronous Work [NO SLIDES] |
+| 04-18-25 | Final Report Preparation [NO SLIDES] |
+| 04-25-25 | Final Report Out |
